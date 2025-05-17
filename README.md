@@ -1,2 +1,2 @@
-# Lotte_university
 # greenUniversity
+그린컴퓨터아카데미 롯데) 백엔드 개발자 양성 과정 2차 팀 프로젝트입니다.
