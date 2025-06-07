@@ -3,7 +3,13 @@
 
 <img width="1352" alt="스크린샷 2025-06-07 오후 7 58 24" src="https://github.com/user-attachments/assets/3c243976-0ce7-4038-a32f-19b6abb0d81c" />
 
+## ✅ 담당 역할 및 기여 내용
+- 커뮤니티 게시판 기능 개발
+  - 게시글 목록 조회, 검색, 상세 보기 및 등록 기능 구현
+  - 사용자와 게시글 간 연관 관계 매핑 및 데이터베이스 설계
+  - RESTful API 설계 및 Controller, Service, Repository 계층 개발
 
+<br>
 
 ## 그린대학교 개발 프로젝트 개요
 
